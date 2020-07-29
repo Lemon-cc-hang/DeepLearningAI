@@ -1,2 +1,2 @@
 # DeepLearningAI
-DeepLearning.Ai
+自我的DeepLearning学习
